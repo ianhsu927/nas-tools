@@ -5,7 +5,7 @@
 /setup.py
 /build_sites.py
 /build/**
-/venv/**
+venv/**
 /cloudflarespeedtest/**
 .python-version
 .vscode/
